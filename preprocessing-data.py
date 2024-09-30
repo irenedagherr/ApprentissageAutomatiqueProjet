@@ -4,7 +4,7 @@ import numpy as np
 from statsmodels.imputation import mice
 import statsmodels.api as sm
 
-df = pd.read_csv('weld_data.csv')
+df = pd.read_csv('weld_data_raw.csv')
 df = df.replace("N", np.nan)
 
 
@@ -43,3 +43,21 @@ import matplotlib.pyplot as plt
 msno.matrix(df)
 plt.title("Missing Data Pattern Visualization")
 plt.show()
+
+
+
+
+# Nombre de valeurs manquantes par colonne
+missing_per_column = df.isnull().sum()
+print("\nNumber of missing values per column:")
+print(missing_per_column)
+
+# Total de données par colonne (c'est-à-dire nombre total de cellules non manquantes)
+total_data_per_column = df.notnull().sum()
+print("\nTotal number of data per column:")
+print(total_data_per_column)
+
+# Afficher le pourcentage de valeurs manquantes par colonne
+percentage_missing_per_column = (missing_per_column / len(df)) * 100
+print("\nPercentage of missing values per column:")
+print(percentage_missing_per_column)
