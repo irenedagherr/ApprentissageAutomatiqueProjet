@@ -6,8 +6,8 @@ weld_type_mapping = {
     "SA": 1,
     "FCA": 2,
     "TSA": 3,
-    "SMA": 4,
-    "MGSAW": 5,
+    "ShMA": 4,
+    "NGSAW": 5,
     "NGGMA": 6,
     "GMAA": 7,
     "GTAA": 8,
@@ -90,6 +90,8 @@ def extract_data(data_file):
             if row[24] == '+':
                 row[24] = 1
             elif row[24] == '-':
+                row[24] = 2
+            else :
                 row[24] = 0
             
             # Handle "AC or DC" column (index 23)
