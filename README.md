@@ -22,6 +22,16 @@ La qualité des soudures est difficile à quantifier, car elle repose souvent su
 
 Le projet est développé en *Python* avec des notebooks *Jupyter* (.ipynb), une plateforme idéale pour l'exploration de données et le développement de modèles de machine learning.
 
+## Organisation
+
+On retrouve dans ce fichier les dossiers suivants :
+
+1- InformationsPubliques : Contenant les fichiers trouvés via le lien, c'est-à-dire les données publiques.
+2- GetData : Prise en main du fichier et nettoyage de la base de données.
+3- Preprocessing : Étapes de prétraitement ainsi que l'analyse descriptive.
+4- Dataset : Contient les fichiers avec extension .csv.
+5- ImplementationML : Les méthodes (modèles), métriques et comparaisons.
+
 ## Installation
 
 Pour exécuter le projet localement, suivez ces étapes :
@@ -67,6 +77,16 @@ Weld quality is difficult to quantify because it often relies on *human expertis
 ## More Details
 
 The project is developed in *Python* using *Jupyter* notebooks (.ipynb), an ideal platform for data exploration and the development of machine learning models.
+
+## Organisation
+
+This file contains the following folders:
+
+1- PublicInformation: Contains the files found through the provided link, i.e., the public data.
+2- GetData: Data retrieval and initial cleaning of the dataset.
+3- Preprocessing: Preprocessing steps as well as descriptive analysis.
+4- Dataset: Contains files in .csv format.
+5- ImplementationML: The methods (models), metrics, and comparisons.
 
 ## Installation
 
