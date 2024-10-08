@@ -26,11 +26,11 @@ Le projet est développé en *Python* avec des notebooks *Jupyter* (.ipynb), une
 
 On retrouve dans ce fichier les dossiers suivants :
 
-1- InformationsPubliques : Contenant les fichiers trouvés via le lien, c'est-à-dire les données publiques.
-2- GetData : Prise en main du fichier et nettoyage de la base de données.
-3- Preprocessing : Étapes de prétraitement ainsi que l'analyse descriptive.
-4- Dataset : Contient les fichiers avec extension .csv.
-5- ImplementationML : Les méthodes (modèles), métriques et comparaisons.
+1. InformationsPubliques : Contenant les fichiers trouvés via le lien, c'est-à-dire les données publiques.
+2. GetData : Prise en main du fichier et nettoyage de la base de données.
+3. Preprocessing : Étapes de prétraitement ainsi que l'analyse descriptive.
+4. Dataset : Contient les fichiers avec extension .csv.
+5. ImplementationML : Les méthodes (modèles), métriques et comparaisons.
 
 ## Installation
 
@@ -82,11 +82,11 @@ The project is developed in *Python* using *Jupyter* notebooks (.ipynb), an idea
 
 This file contains the following folders:
 
-1- PublicInformation: Contains the files found through the provided link, i.e., the public data.
-2- GetData: Data retrieval and initial cleaning of the dataset.
-3- Preprocessing: Preprocessing steps as well as descriptive analysis.
-4- Dataset: Contains files in .csv format.
-5- ImplementationML: The methods (models), metrics, and comparisons.
+1. PublicInformation: Contains the files found through the provided link, i.e., the public data.
+2. GetData: Data retrieval and initial cleaning of the dataset.
+3. Preprocessing: Preprocessing steps as well as descriptive analysis.
+4. Dataset: Contains files in .csv format.
+5. ImplementationML: The methods (models), metrics, and comparisons.
 
 ## Installation
 
