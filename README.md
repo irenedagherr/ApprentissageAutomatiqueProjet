@@ -38,10 +38,10 @@ Vous êtes maintenant prêt à explorer les modèles de prédiction de la qualit
 
 Objectifs atteints :
 
--Utilisation d'algorithmes supervisés, non supervisés et semi-supervisés.
--Pré-traitement des données de soudure issues de Welddb.
--Développement de modèles prédictifs pour la qualité des soudures.
--Acquisition de compétences en apprentissage automatique.
+- Utilisation d'algorithmes supervisés, non supervisés et semi-supervisés.
+- Pré-traitement des données de soudure issues de Welddb.
+- Développement de modèles prédictifs pour la qualité des soudures.
+- Acquisition de compétences en apprentissage automatique.
 
 *Nous accueillons les retours et contributions de la communauté ! Si vous rencontrez des problèmes ou avez des suggestions, veuillez nous contacter directement*.
 
@@ -75,8 +75,8 @@ To run the project locally, follow these steps:
 1. Install Python from [python.org](https://www.python.org/downloads/).
 2. Install Jupyter Notebook by running the following command:  
    *pip install notebook*
-3.Navigate to the project folder and open the .ipynb file with Jupyter Notebook.
-4.Install the required dependencies by executing the requirements.txt file:
+3. Navigate to the project folder and open the .ipynb file with Jupyter Notebook.
+4. Install the required dependencies by executing the requirements.txt file:
 
 You are now ready to explore the weld quality prediction models and fine-tune the parameters to optimize the results.
 
@@ -84,10 +84,10 @@ You are now ready to explore the weld quality prediction models and fine-tune th
 
 Milestones achieved:
 
--Applied supervised, unsupervised, and semi-supervised algorithms.
--Preprocessed welding data from Welddb.
--Developed predictive models for weld quality.
--Gained expertise in machine learning.
+- Applied supervised, unsupervised, and semi-supervised algorithms.
+- Preprocessed welding data from Welddb.
+- Developed predictive models for weld quality.
+- Gained expertise in machine learning.
 
 *We welcome feedback and contributions from the community! If you encounter any issues or have suggestions, please feel free to reach out directly.*
 
