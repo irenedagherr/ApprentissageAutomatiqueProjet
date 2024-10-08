@@ -1,6 +1,6 @@
 # Prédiction de la qualité des soudures
 
-<img width="1180" alt="Screenshot" src="">
+<img width="1180" alt="Screenshot" src="Screenshot 2024-10-08 at 21.40.46.png">
 
 *English version available below* 
 
